@@ -31,5 +31,5 @@ https://docs.google.com/document/d/1InNNEsJdqRrRAW7w2ZTVKEYoEtDRDpvS7EQUzkOcu7A/
 
 Todo:
 
-[] Simulate Data
-[] Finish Notebooks
+- [ ] Simulate Data
+- [ ] Finish Notebooks
