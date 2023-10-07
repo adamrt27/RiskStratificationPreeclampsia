@@ -28,3 +28,8 @@ Functions:
 More Details about workflow:
 
 https://docs.google.com/document/d/1InNNEsJdqRrRAW7w2ZTVKEYoEtDRDpvS7EQUzkOcu7A/edit?usp=sharing
+
+Todo:
+
+[] Simulate Data
+[] Finish Notebooks
